@@ -34,7 +34,8 @@ city: The city or locality in which the restaurant or establishment is located.
 latitude: The latitude coordinate of the restaurant or establishment.
 longitude: The longitude coordinate of the restaurant or establishment.
 rating: The overall rating of the restaurant or establishment on Google Maps, as a decimal value out of 5.
-working_hours: The hours of operation for the restaurant or establishment, listed as a dictionary object with keys representing each day of the week and values representing the hours of operation on that day.
+working_hours: The hours of operation for the restaurant or establishment, listed as a dictionary object with keys representing each day of the week and values
+representing the hours of operation on that day.
 business_status: The current operational status of the restaurant or establishment, as listed on Google Maps.
 logo: A URL linking to the restaurant or establishment's logo, as listed on Google Maps.
 verified: A boolean value indicating whether the restaurant or establishment has been verified by Google.
